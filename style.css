@@ -1,0 +1,25 @@
+.max-w{
+          max-width: 966px;
+}
+.navbar-sec{
+          background-color: #562eff;
+}
+.sm-img{
+          width: 51px;
+
+}
+.logo{
+          width: 41px;
+}
+.container{
+          max-width: 966px;
+}
+.top-blog{
+          width: 50%;
+}
+.blue{
+          color: blue;
+}
+.container{
+          box-shadow: 5px 5px 20px lightgray;
+}
