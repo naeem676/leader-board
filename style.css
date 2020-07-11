@@ -26,3 +26,13 @@
 .sml{
           width: 15px;
 }
+.card{
+          border: none;
+}
+@media only screen  and (max-width:480px) {
+       *{
+                 margin-bottom:10px;
+       }
+
+}
+
